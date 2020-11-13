@@ -73,3 +73,7 @@
 ---
 
 <span style="color:orange">__*Please let us know if you use, copy, duplicate, replicate or distribute partially or entirely code sources, images or any file or folder related to this repository*__</span>
+
+```diff
++ ciao
+```
