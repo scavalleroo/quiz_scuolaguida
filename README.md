@@ -12,16 +12,13 @@
 
 ```json
 {
-    .
-    .
-    .
 
-    <question group ID>:{
+        <question group ID>:{
         "fig": "<number of the image in the fig folder>",
         "questions": [
             [
                 "<Question 1>",
-                <answer true/false>
+                "<answer true/false>"
             ],
             [
                 "<Question 2>",
@@ -53,10 +50,7 @@
             ]
         ]
     },
-
-    .
-    .
-    .
+    
 }
 ```
 ## <span style="color:orange">Example extracted from the JSON file</span>
