@@ -13,7 +13,7 @@
 ```json
 {
 
-        <question group ID>:{
+        "<question group ID>":{
         "fig": "<number of the image in the fig folder>",
         "questions": [
             [
@@ -22,31 +22,31 @@
             ],
             [
                 "<Question 2>",
-                <answer true/false>
+                "<answer true/false>"
             ],
             [
                 "<Question 3>",
-                <answer true/false>
+                "<answer true/false>"
             ],
             [
                 "<Question 4>",
-                <answer true/false>
+                "<answer true/false>"
             ],
             [
                 "<Question 5>",
-                <answer true/false>
+                "<answer true/false>"
             ],
             [
                 "<Question 6>",
-                <answer true/false>
+                "<answer true/false>"
             ],
             [
                 "<Question 7>",
-                <answer true/false>
+                "<answer true/false>"
             ],
             [
                 "<Question N>",
-                <answer true/false>
+                "<answer true/false>"
             ]
         ]
     },
